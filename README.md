@@ -1,8 +1,6 @@
-Laboratorio 01 - Android Studio y GitHub
+Laboratorio 01
 
-Estudiante: Yajaira Cerrón  
+Nombre completo: Yajaira Cerrón Mancilla 
 
-Curso: Programación en Móviles  
-
-Descripción
-Semana 1 en ANDROID STUDIO
+Descripción sobre Android Studio
+Aplicación móvil desarrollada en Android Studio con Kotlin y Jetpack Compose. Implementa una interfaz interactiva básica que muestra un saludo personalizado y la asignatura correspondiente. Forma parte del Laboratorio 01 para el aprendizaje de interfaz declarativa y control de versiones con Git/GitHub.
